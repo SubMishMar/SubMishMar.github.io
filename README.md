@@ -9,7 +9,7 @@ I have a Master's degree in Control Systems Engineering from [École centrale de
 I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://www.nitrkl.ac.in/), India.
 
 
-<center>For more details check my profiles on: [LinkedIn](https://www.linkedin.com/in/subodh-mishra/) / [GitHub](https://github.com/SubMishMar) / [Google Scholar](https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en)
-</center>
+For more details check my profiles on: [LinkedIn](https://www.linkedin.com/in/subodh-mishra/) / [GitHub](https://github.com/SubMishMar) / [Google Scholar](https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en)
 
-Click <a href="http://www.yahoo.com">here</a> to go to yahoo.
+
+<center> Click <a href="http://www.yahoo.com">here</a> to go to yahoo. </center>
