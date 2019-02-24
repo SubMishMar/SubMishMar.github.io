@@ -1,6 +1,4 @@
-## Subodh Mishra
-
-<img style="float: right;" src="images/personalpic.jpg">
+## Subodh Mishra <img style="float: right;" src="images/personalpic.jpg">
 
 Hello and welcome to my personal webpage. I am a doctoral student at [TAMU](https://www.tamu.edu/), working under the supervision of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) of the [Unmanned Systems Lab](https://unmanned.tamu.edu/).  My research interests are GPS denied Navigation, Robot Perception and Planning.
 
