@@ -6,6 +6,8 @@ Hello and welcome to my webpage. I am a Ph.D. student at [TAMU](https://www.tamu
 
 I have a Master's degree in Control Systems Engineering from [École centrale de Nantes](https://www.ec-nantes.fr/), France. I did my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf) at [CNRS-LAAS](https://www.laas.fr/public/en) under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1) on the topic of [Aerial+Ground Co-Manipulation Systems](https://youtu.be/o9xmPYNPfRE).
 
+I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://www.nitrkl.ac.in/), India.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
