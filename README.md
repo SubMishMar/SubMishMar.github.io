@@ -4,7 +4,7 @@
 
 Hello and welcome to my personal webpage. I am a doctoral student at [TAMU](https://www.tamu.edu/), working under the supervision of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) of the [Unmanned Systems Lab](https://unmanned.tamu.edu/).  My research interests are GPS denied Navigation, Robot Perception and Sensor Calibration. 
 
-I have a Master's degree in Control Systems Engineering from [École centrale de Nantes](https://www.ec-nantes.fr/)
+I have a Master's degree in Control Systems Engineering from [École centrale de Nantes](https://www.ec-nantes.fr/), France. I have done my MS thesis under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1) on the topic of Aerial+Ground Co-Manipulation Systems.
 
 ### Markdown
 
