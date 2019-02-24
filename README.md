@@ -13,3 +13,7 @@ For more details check my profiles on: [LinkedIn](https://www.linkedin.com/in/su
 
 
 <center> Click <a href="http://www.yahoo.com">here</a> to go to yahoo. </center>
+
+<p align="justify">
+  Lorem ipsum
+</p>
