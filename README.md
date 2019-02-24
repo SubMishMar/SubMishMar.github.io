@@ -12,6 +12,6 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 For more details check my profiles on: [LinkedIn](https://www.linkedin.com/in/subodh-mishra/) / [GitHub](https://github.com/SubMishMar) / [Google Scholar](https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en)
 
 
-<center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> </center>
+<center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> </center>
 
 
