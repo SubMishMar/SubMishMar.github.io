@@ -1,6 +1,6 @@
 ## Subodh Mishra 
 
-<img style="float: right;" src="images/personalpic.jpg">
+<img style="float: left;" src="images/personalpic.jpg">
 
 Hello and welcome to my webpage. I am a Ph.D. student at [Texas A&M University](https://www.tamu.edu/), working under the supervision of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) of the [Unmanned Systems Lab](https://unmanned.tamu.edu/).  My research interests are Robot State Estimation, Perception and Sensor Calibration. 
 
