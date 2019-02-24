@@ -1,8 +1,6 @@
 ## Subodh Mishra
 
-You can use the [editor on GitHub](https://github.com/SubMishMar/SubMishMar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello and welcome to my personal webpage.
 
 ### Markdown
 
