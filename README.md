@@ -1,6 +1,6 @@
 ## Subodh Mishra
 
-Hello and welcome to my personal webpage. I am a graduate student at [TAMU](https://www.tamu.edu/)
+Hello and welcome to my personal webpage. I am a graduate student at [TAMU](https://www.tamu.edu/), working under the supervision of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) of the [Unmanned Systems Lab](https://unmanned.tamu.edu/).
 
 ### Markdown
 
