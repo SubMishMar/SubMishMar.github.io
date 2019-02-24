@@ -8,3 +8,5 @@ I have a Master's degree in Control Systems Engineering from [École centrale de
 
 I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://www.nitrkl.ac.in/), India.
 
+### Research
+
