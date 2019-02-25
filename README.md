@@ -12,7 +12,7 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 # Research
 
-* SNARE
+* SNARE: Surviable Network
 * Multi-Sensor Calibration
 
 
