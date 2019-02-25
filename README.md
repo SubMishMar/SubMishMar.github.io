@@ -18,6 +18,6 @@
 <div style="text-align: justify">
   <ul style="list-style-type:square;">
   <li> <b>2D-SLAM using RGB-D sensor:</b> This work dealt with using a cheap EGB-D sensor on a differential robot to do 2D Occupancy Grid based Graph SLAM in indoor environment. I was involved this project as an intern during summer 2018 with the Robot Software Development team at Perceptin(now called Trifo).  </li>
-  <li> <b>Cooperative Aerial-Ground Manipulation:</b> I worked on this project for my MS thesis. Although the project had numerous sub-systems. My job was to integrate the various software and hardware components and also work on vision based localization techniques which remove the system's dependence on Motion Capture System.</li>
+  <li> <b>Cooperative Aerial-Ground Manipulation:</b> I worked on this project for my MS thesis. This work dealt with using a ground manipulator and an Aerial Robot The project had numerous sub-systems and my job was to integrate the various software and hardware components and also work on vision based localization techniques which remove the system's dependence on Motion Capture System.</li>
 </ul> 
 </div>
