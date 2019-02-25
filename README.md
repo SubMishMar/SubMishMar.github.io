@@ -12,8 +12,7 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 # Research
 
-## SNARE
-
-## Multi-Sensor Calibration
+* SNARE
+* Multi-Sensor Calibration
 
 
