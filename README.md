@@ -1,9 +1,7 @@
 # Welcome to my Webpage
 
 <img style="float: left;" src="images/personalpic.jpg">
-<div style="text-align: justify"> I am a Ph.D. student at  <a href="https://www.tamu.edu/">Texas A&M University</a>, working under the supervision of <a href="https://engineering.tamu.edu/mechanical/profiles/saripalli.html">Dr. Srikanth Saripalli</a> of the <a href="https://unmanned.tamu.edu/">Unmanned Systems Lab</a>.  My research interests are Robot State Estimation, Perception and Sensor Calibration.  
-
-I have a Master's degree in Control Systems Engineering from  <a href="https://www.ec-nantes.fr/">École centrale de Nantes</a>, France. I did my <a href="https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf">MS thesis at <a href="https://www.laas.fr/public/en">LAAS-CNRS</a> under the guidance of <a href="https://homepages.laas.fr/afranchi/robotics/?q=node/1">Dr. Antonio Franchi</a> on the topic <a href="https://youtu.be/o9xmPYNPfRE">Aerial+Ground Co-Manipulation Systems</a>.</div>
+<div style="text-align: justify"> I am a Ph.D. student at  <a href="https://www.tamu.edu/">Texas A&M University</a>, working under the supervision of <a href="https://engineering.tamu.edu/mechanical/profiles/saripalli.html">Dr. Srikanth Saripalli</a> of the <a href="https://unmanned.tamu.edu/">Unmanned Systems Lab</a>.  My research interests are Robot State Estimation, Perception and Sensor Calibration. I have a Master's degree in Control Systems Engineering from  <a href="https://www.ec-nantes.fr/">École centrale de Nantes</a>, France. I did my <a href="https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf">MS thesis at <a href="https://www.laas.fr/public/en">LAAS-CNRS</a> under the guidance of <a href="https://homepages.laas.fr/afranchi/robotics/?q=node/1">Dr. Antonio Franchi</a> on the topic <a href="https://youtu.be/o9xmPYNPfRE">Aerial+Ground Co-Manipulation Systems</a>.</div>
 
 I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://www.nitrkl.ac.in/), India.
 
