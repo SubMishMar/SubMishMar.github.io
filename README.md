@@ -17,9 +17,9 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 # Past Experience
 
-* **Indoor SLAM using RGB-D sensor **: During the summer of 2018, I worked in a start-up called Perceptin (now called Trifo) and I was working with the Mapping and Localization team where we used cheap RGB-D sensors to do 2D SLAM in indoor environment using state of the art open sourced software.
+* **Indoor SLAM using RGB-D sensor**: During the summer of 2018, I worked in a start-up called Perceptin (now called Trifo) and I was working with the Mapping and Localization team where we used cheap RGB-D sensors to do 2D SLAM in indoor environment using state of the art open sourced software.
 
-* **Aerial+Ground Co-Manipulation **:
+* **Aerial+Ground Co-Manipulation**:
 
 
 
