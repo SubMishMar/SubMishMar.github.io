@@ -1,4 +1,4 @@
-## Welcome to my Webpage
+# Welcome to my Webpage
 
 <img style="float: left;" src="images/personalpic.jpg">
 
@@ -10,10 +10,10 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 <center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://github.com/SubMishMar">GitHub</a> / <a href="https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en">Google Scholar</a> </center>
 
-## Research
+# Research
 
-# SNARE
+## SNARE
 
-# Multi-Sensor Calibration
+## Multi-Sensor Calibration
 
 
