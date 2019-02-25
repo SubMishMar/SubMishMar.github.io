@@ -2,7 +2,7 @@
 
 <img style="float: left;" src="images/personalpic.jpg">
 
-<div style="text-align: justify"> I am a Ph.D. student at  <a href="https://www.tamu.edu/">Texas A&M University</a>, working under the supervision of <a href="https://engineering.tamu.edu/mechanical/profiles/saripalli.html">Dr. Srikanth Saripalli</a> of the <a href="https://unmanned.tamu.edu/">Unmanned Systems Lab</a>. My research interests are focused on Mobile Robot Localization and Mapping</div>
+<div style="text-align: justify"> I am a Ph.D. student at  <a href="https://www.tamu.edu/">Texas A&M University</a>, working under the supervision of <a href="https://engineering.tamu.edu/mechanical/profiles/saripalli.html">Dr. Srikanth Saripalli</a> of the <a href="https://unmanned.tamu.edu/">Unmanned Systems Lab</a>. My research interests are focused on Mobile Robot Localization and Mapping. </div>
 
 <center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://github.com/SubMishMar">GitHub</a> / <a href="https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en">Google Scholar</a> </center>
 
