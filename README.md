@@ -1,4 +1,4 @@
-## Subodh Mishra 
+## Background 
 
 <img style="float: left;" src="images/personalpic.jpg">
 
