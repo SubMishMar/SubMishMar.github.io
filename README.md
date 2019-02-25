@@ -19,7 +19,7 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 * **Indoor SLAM using RGB-D sensor**: During the summer of 2018, I worked in a start-up called Perceptin (now called Trifo) and I was working with the Mapping and Localization team where we used cheap RGB-D sensors to do 2D SLAM in indoor environment using state of the art open sourced software.
 
-* **Aerial+Ground Co-Manipulation**:
+* **Aerial+Ground Co-Manipulation**: I worked on Aerial+Ground co-manipulation system for my master thesis at LAAS-CNRS under the guidance of Dr. Antonio Franchi. My primary contribution was software integration and also exploring means to avoid the usage of motion capture system. To this end, I tested various visual odometry algorithms and we had concluded that during that time, ORB_SLAM seemed to be a great choice for doing SLAM on Aerial Robotic platform for Aerial Ground Co-Manipulation. Details can be found in my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf).
 
 
 
