@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Subodh Mishra
 description: "Research and Personal Webpage"
+text-align: justify
 
 # Social icons
 github_username: SubMishMar
