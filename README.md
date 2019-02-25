@@ -7,6 +7,13 @@
 <center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://github.com/SubMishMar">GitHub</a> / <a href="https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en">Google Scholar</a> </center>
 
 # Current Research
+
+ <ul style="list-style-type:disc;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
 * **Augmented SLAM with Online Multi-Sensor Calibration**: 
 <div style="text-align: justify"> I am starting to work on this project and intend to work on it for my Ph.D. The basic problem I want to address here is to add the external calibration parameters of all the sensors to the SLAM state vector. Until now much of the SLAM pipelines that have been written with the assumption that the external calibration parameters are known a-priori. But, this is far from the truth as in real world these parameters may vary with time.
 </div>
