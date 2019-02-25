@@ -9,29 +9,8 @@
 # Current Research
 
  <ul style="list-style-type:disc;">
-  <li>Coffee</li>
-  <li>Tea</li>
+  <li>Augmented SLAM with Online Multi-Sensor Calibration</li>
+  <li>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY</li>
   <li>Milk</li>
 </ul> 
 
-* **Augmented SLAM with Online Multi-Sensor Calibration**: 
-<div style="text-align: justify"> I am starting to work on this project and intend to work on it for my Ph.D. The basic problem I want to address here is to add the external calibration parameters of all the sensors to the SLAM state vector. Until now much of the SLAM pipelines that have been written with the assumption that the external calibration parameters are known a-priori. But, this is far from the truth as in real world these parameters may vary with time.
-</div>
-
-
-* **SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY**: 
-<div style="text-align: justify"> I have been involved with this project for the past 1 year. We are working on developing algorithms for cheap drones which can be used for exploring an adversarial environment. We are using <a href="https://www.amazon.com/Sky-Viper-v2450GPS-Streaming-Autopilot/dp/B072HH13VQ">Skyviper v2450</a> for verifying our methods in the real world. The drone may die in the process but it's experience must help the drones which explore the same environment later. This is done by modelling the entire problem as a *Markov Decision Process*. I am working on system integration and field implementation of algorithms written by co-workers. To this end, I have gained expertise in tuning Extended Kalman Filters, ArUco Marker based Localization, programming under the ROS framework and familiarity with the ArduCopter firmware. 
-</div>
-
-# Past Experience
-
-* **Indoor SLAM using RGB-D sensor**: During the summer of 2018, I worked in a start-up called Perceptin (now called Trifo) and I was working with the Mapping and Localization team where we used cheap RGB-D sensors to do 2D SLAM in indoor environment using state of the art open sourced software.
-
-* **Aerial+Ground Co-Manipulation**: I worked on Aerial+Ground co-manipulation system for my master thesis at[LAAS-CNRS](https://www.laas.fr/public/en) under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1). My primary contribution was software integration of various subcomponents like The KUKA IIWA LBR14 manipulator & a [Tilted Rotor Hexcopter](https://hal.laas.fr/hal-01716845/document) and also exploring means to avoid the usage of motion capture system. To this end, I tested various visual odometry algorithms and we had concluded that during that time, ORB_SLAM seemed to be a great choice for doing SLAM on Aerial Robotic platform for Aerial Ground Co-Manipulation. Details can be found in my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf).
-
-# Other Relevant Stuff
-Here I present some other not so important but relevant stuff that I have been tinkering/tinkered with in the past 1 year of grad school.
-
-* **EKF-SLAM in MATLAB**: This is very simplistic EKF based approach to do SLAM using MATLAB, especially for begineers. The code can be found [here](https://github.com/SubMishMar/EKF-SLAM).
-
-* **Monocular Visual Odometry**: Simple monocular visual odometry pipeline which takes the scale information from ground truth. The code can be found [here](https://github.com/SubMishMar/movo).
