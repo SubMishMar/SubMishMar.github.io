@@ -4,7 +4,7 @@
 
 I am a Ph.D. student at [Texas A&M University](https://www.tamu.edu/), working under the supervision of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) of the [Unmanned Systems Lab](https://unmanned.tamu.edu/).  My research interests are Robot State Estimation, Perception and Sensor Calibration. 
 
-I have a Master's degree in Control Systems Engineering from [École centrale de Nantes](https://www.ec-nantes.fr/), France. I did my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf) at [CNRS-LAAS](https://www.laas.fr/public/en) under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1) on the topic of [Aerial+Ground Co-Manipulation Systems](https://youtu.be/o9xmPYNPfRE).
+I have a Master's degree in Control Systems Engineering from [École centrale de Nantes](https://www.ec-nantes.fr/), France. I did my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf) at [LAAS-CNRS](https://www.laas.fr/public/en) under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1) on the topic of [Aerial+Ground Co-Manipulation Systems](https://youtu.be/o9xmPYNPfRE).
 
 I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://www.nitrkl.ac.in/), India.
 
@@ -19,7 +19,7 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 * **Indoor SLAM using RGB-D sensor**: During the summer of 2018, I worked in a start-up called Perceptin (now called Trifo) and I was working with the Mapping and Localization team where we used cheap RGB-D sensors to do 2D SLAM in indoor environment using state of the art open sourced software.
 
-* **Aerial+Ground Co-Manipulation**: I worked on Aerial+Ground co-manipulation system for my master thesis at LAAS-CNRS under the guidance of Dr. Antonio Franchi. My primary contribution was software integration and also exploring means to avoid the usage of motion capture system. To this end, I tested various visual odometry algorithms and we had concluded that during that time, ORB_SLAM seemed to be a great choice for doing SLAM on Aerial Robotic platform for Aerial Ground Co-Manipulation. Details can be found in my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf).
+* **Aerial+Ground Co-Manipulation**: I worked on Aerial+Ground co-manipulation system for my master thesis at[LAAS-CNRS](https://www.laas.fr/public/en) under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1). My primary contribution was software integration of various subcomponents like The KUKA IIWA LBR14 manipulator and a [Tilted Rotor Hexcopter](https://hal.laas.fr/hal-01716845/document) and also exploring means to avoid the usage of motion capture system. To this end, I tested various visual odometry algorithms and we had concluded that during that time, ORB_SLAM seemed to be a great choice for doing SLAM on Aerial Robotic platform for Aerial Ground Co-Manipulation. Details can be found in my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf).
 
 
 
