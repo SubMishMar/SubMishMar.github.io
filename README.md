@@ -7,9 +7,9 @@
 <center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://github.com/SubMishMar">GitHub</a> / <a href="https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en">Google Scholar</a> </center>
 
 # Current Research
-
+<div style="text-align: justify">
  <ul style="list-style-type:disc;">
   <li> <b>Augmented SLAM with Online Multi-Sensor Calibration</b> </li>
   <li> <b>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY</b> </li>
 </ul> 
-
+</div>
