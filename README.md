@@ -11,6 +11,5 @@
  <ul style="list-style-type:disc;">
   <li>Augmented SLAM with Online Multi-Sensor Calibration</li>
   <li>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY</li>
-  <li>Milk</li>
 </ul> 
 
