@@ -26,3 +26,5 @@ Here I present some other not so important but relevant stuff that I have been t
 
 * **EKF-SLAM in MATLAB**: This is very simplistic approach to doing SLAM especially for begineers. The code can be founded [here](https://github.com/SubMishMar/EKF-SLAM). ![EKF-SLAM](https://github.com/SubMishMar/EKF-SLAM/blob/master/gif/EKF-SLAM.gif)
 
+* **Monocular Visual Odometry**: Simple monocular visual odometry pipeline which takes the scale information from ground truth. The code can be founded [here](https://github.com/SubMishMar/movo). [image](https://github.com/SubMishMar/movo/blob/master/docs/screenshot.png)
+
