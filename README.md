@@ -8,7 +8,7 @@
 
 # Current Research
 <div style="text-align: justify">
- <ul style="list-style-type:disc;">
+ <ul style="list-style-type:square;">
   <li> <b>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY:</b> This project deals with usage of cheap and expendable robots for exploration and information gathering in an adversarial environment and how the probable death of the autonomous agent can help to formulate better planning algorithms for those robots hat follow the first one. We formulate this problem as a <i>Markov Decision Process</i>. This projects examines a  model of a task where robot mortality is presupposed, and examines how destruction of a robot serves as an information source. The basic setting is that a robot operator has a swarm of cheap disposable robots; these are deployed in sequence, each performing a hazardous navigation mission, either completing their mission or failing to return. Situational awareness is improved in in either case: the operator uses robot failure, including destruction, serves as an information source.</li>
   <li> <b>Augmented SLAM with Multi-Sensor Online Calibration</b> In this project we aim to add the extrinsic calibration parameters of all the sensors to the SLAM state vector because in almost every real life scenario the calibration parameters change over time due to environmental effects on the autonomous agent. Therefore, adding the calibration parameters to the state vector will not only improve the calibration results but also improve the the result of localization and mapping. </li>
 </ul> 
@@ -16,8 +16,8 @@
 
 # Past Experience
 <div style="text-align: justify">
-  <ul style="list-style-type:disc;">
-  <li> <b>2D-SLAM using RGB-D sensor:</b></li>
+  <ul style="list-style-type:square;">
+  <li> <b>2D-SLAM using RGB-D sensor</b></li>
   <li> <b>Cooperative Aerial-Ground Manipulation</b></li>
 </ul> 
 </div>
