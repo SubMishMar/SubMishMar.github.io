@@ -15,6 +15,12 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 * **SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY**: I have been involved with this project for the past 1 year. We are working on developing algorithms for cheap drones which can be used for exploring an adversarial environment. We are using [Skyviper v2450](https://www.amazon.com/Sky-Viper-v2450GPS-Streaming-Autopilot/dp/B072HH13VQ) for verifying our methods in the real world. The drone may die in the process but it's experience must help the drones which explore the same environment later. This is done by modelling the entire problem as a *Markov Decision Process*. I am working on system integration and field implementation of algorithms written by co-workers. To this end, I have gained expertise in tuning Extended Kalman Filters, ArUco Marker based Localization, programming under the ROS framework and familiarity with the ArduCopter firmware. 
 
+# Past Experience
+
+* **Indoor SLAM using RGB-D sensor **: During the summer of 2018, I worked in a start-up called Perceptin (now called Trifo) and I was working with the Mapping and Localization team where we used cheap RGB-D sensors to do 2D SLAM in indoor environment using state of the art open sourced software.
+
+* **Aerial+Ground Co-Manipulation **:
+
 
 
 
