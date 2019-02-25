@@ -17,7 +17,7 @@
 # Past Experience
 <div style="text-align: justify">
   <ul style="list-style-type:square;">
-  <li> <b>2D-SLAM using RGB-D sensor</b></li>
-  <li> <b>Cooperative Aerial-Ground Manipulation</b></li>
+  <li> <b>2D-SLAM using RGB-D sensor:</b> This work dealt with using a cheap EGB-D sensor on a differential robot to do 2D Occupancy Grid based Graph SLAM in indoor environment. I was involved this project as an intern during summer 2018 with the Robot Software Development team at Perceptin(now called Trifo).  </li>
+  <li> <b>Cooperative Aerial-Ground Manipulation:</b></li>
 </ul> 
 </div>
