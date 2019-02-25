@@ -6,6 +6,16 @@
 
 <center> <a href="https://www.linkedin.com/in/subodh-mishra/">LinkedIn</a> / <a href="https://github.com/SubMishMar">GitHub</a> / <a href="https://scholar.google.com/citations?user=4dltZR4AAAAJ&hl=en">Google Scholar</a> </center>
 
+# Contact
+
+<div style="text-align: justify">
+<b>Email:</b> subodh514@tamu.edu
+</div>
+
+<div style="text-align: justify">
+<b>Office:</b> ENPH 221, Texas A&M University-College Station
+</div>
+
 # Current Research
 <div style="text-align: justify">
  <ul style="list-style-type:square;">
@@ -22,12 +32,3 @@
 </ul> 
 </div>
 
-# Contact
-
-<div style="text-align: justify">
-<b>email:</b> subodh514@tamu.edu
-</div>
-
-<div style="text-align: justify">
-<b>Office:</b> ENPH 221, Texas A&M University-College Station
-</div>
