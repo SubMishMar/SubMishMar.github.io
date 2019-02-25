@@ -16,4 +16,8 @@
 
 # Past Experience
 <div style="text-align: justify">
+  <ul style="list-style-type:disc;">
+  <li> <b>2D-SLAM using RGB-D sensor:</b></li>
+  <li> <b>Cooperative Aerial-Ground Manipulation</b></li>
+</ul> 
 </div>
