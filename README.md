@@ -9,7 +9,7 @@
 # Current Research
 
  <ul style="list-style-type:disc;">
-  <li>Augmented SLAM with Online Multi-Sensor Calibration</li>
-  <li>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY</li>
+  <li> <b>Augmented SLAM with Online Multi-Sensor Calibration</b> </li>
+  <li> <b>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY</b> </li>
 </ul> 
 
