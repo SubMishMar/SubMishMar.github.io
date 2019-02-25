@@ -9,7 +9,7 @@
 # Current Research
 <div style="text-align: justify">
  <ul style="list-style-type:disc;">
-  <li> <b>Augmented SLAM with Online Multi-Sensor Calibration:</b> This prject deals with usage of cheap and expendable robots for exploration and information gathering in an adversarial environment and how the probable death of the autonomous agent can help to formulate better planning algorithms for those robots hat follow the first one.</li>
+  <li> <b>Augmented SLAM with Online Multi-Sensor Calibration:</b> This prject deals with usage of cheap and expendable robots for exploration and information gathering in an adversarial environment and how the probable death of the autonomous agent can help to formulate better planning algorithms for those robots hat follow the first one. We formulate the problem as a <i>Markov Decision Process</i>.</li>
   <li> <b>SURVIVABLE NETWORKS OF ROBOTS FOR ADVERSITY: RECOVERABILITY AND EXPENDABILITY</b> </li>
 </ul> 
 </div>
