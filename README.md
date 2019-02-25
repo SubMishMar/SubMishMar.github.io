@@ -21,5 +21,8 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 * **Aerial+Ground Co-Manipulation**: I worked on Aerial+Ground co-manipulation system for my master thesis at[LAAS-CNRS](https://www.laas.fr/public/en) under the guidance of [Dr. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=node/1). My primary contribution was software integration of various subcomponents like The KUKA IIWA LBR14 manipulator & a [Tilted Rotor Hexcopter](https://hal.laas.fr/hal-01716845/document) and also exploring means to avoid the usage of motion capture system. To this end, I tested various visual odometry algorithms and we had concluded that during that time, ORB_SLAM seemed to be a great choice for doing SLAM on Aerial Robotic platform for Aerial Ground Co-Manipulation. Details can be found in my [MS thesis](https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf).
 
+# Other Relevant Stuff
+Here I present some other not so important but relevant stuff that I have been tinkering/tinkered with in the past 1 year of grad school.
 
+* **EKF-SLAM in MATLAB**: This is very simplistic approach to doing SLAM especially for begineers. The code can be founded [here](https://github.com/SubMishMar/EKF-SLAM). ![EKF-SLAM](https://github.com/SubMishMar/EKF-SLAM/blob/master/gif/EKF-SLAM.gif)
 
