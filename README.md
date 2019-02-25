@@ -12,7 +12,7 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 
 # Research
 
-* SNARE: Surviable Network
-* Multi-Sensor Calibration
+* SNARE: I have been involved with this project for the past 1 year. We are working on developing algorithms for cheap drones which can be used for exploring an adversarial environment. The drone may die in the process but it's experience must help the drones which explore the same environment later. I am working on system integration and field implementation of algorithms written by co workers.
+* Multi-Sensor Calibration and SLAM:
 
 
