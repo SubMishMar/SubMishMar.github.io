@@ -27,3 +27,7 @@
 <div style="text-align: justify">
 <b>email:</b> subodh514@tamu.edu
 </div>
+
+<div style="text-align: justify">
+<b>Office:</b> ENPH 221, Texas A&M University-College Station
+</div>
