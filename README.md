@@ -13,3 +13,7 @@
   <li> <b>Augmented SLAM with Multi-Sensor Online Calibration</b> In this project we aim to add the extrinsic calibration parameters of all the sensors to the SLAM state vector because in almost every real life scenario the calibration parameters change over time due to environmental effects on the autonomous agent. Therefore, adding the calibration parameters to the state vector will not only improve the calibration results but also improve the the result of localization and mapping. </li>
 </ul> 
 </div>
+
+# Past Experience
+<div style="text-align: justify">
+</div>
