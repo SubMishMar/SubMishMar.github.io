@@ -21,3 +21,9 @@
   <li> <b>Cooperative Aerial-Ground Manipulation:</b> I worked on this project for my <a href="https://github.com/SubMishMar/SubMishMar.github.io/blob/master/thesis/Master_Internship_Report_MISHRA_Subodh%5BRevised%5D.pdf">MS Thesis</a> at <a href="https://www.laas.fr/public/">LAAS-CNRS</a>, Toulouse, under the guidance of <a href="http://homepages.laas.fr/afranchi/robotics/?q=node/1">Dr. Antonio Franchi</a>. This work dealt with using a Ground Manipulator and a novel Tilted Rotor Aerial Manipulator to lift long bars in warehouses. The project had numerous sub-systems and my job was to integrate the various software and hardware components and also work on vision based localization techniques which remove the system's dependence on Motion Capture System. A demo of the entire system operation can be found <a href="https://youtu.be/_zxaxGr6YOY">here.</a></li>
 </ul> 
 </div>
+
+# Contact
+
+<div style="text-align: justify">
+<b>email:</b> subodh514@tamu.edu
+</div>
