@@ -24,6 +24,6 @@ I have a Bachelor's degree in Electrical Engineering from [NIT-Rourkela](http://
 # Other Relevant Stuff
 Here I present some other not so important but relevant stuff that I have been tinkering/tinkered with in the past 1 year of grad school.
 
-* **EKF-SLAM in MATLAB**: This is very simplistic EKF based approach to do SLAM, especially for begineers. The code can be founded [here](https://github.com/SubMishMar/EKF-SLAM).
+* **EKF-SLAM in MATLAB**: This is very simplistic EKF based approach to do SLAM using MATLAB, especially for begineers. The code can be founded [here](https://github.com/SubMishMar/EKF-SLAM).
 
 * **Monocular Visual Odometry**: Simple monocular visual odometry pipeline which takes the scale information from ground truth. The code can be founded [here](https://github.com/SubMishMar/movo).
