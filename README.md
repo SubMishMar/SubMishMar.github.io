@@ -32,3 +32,8 @@
 </ul> 
 </div>
 
+# Other Relevant Stuff
+<div style="text-align: justify">
+Here I present some small projects that I have tinkered/been tinkering with in the past 1 year.
+</div>
+
